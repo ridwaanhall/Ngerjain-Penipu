@@ -6,7 +6,7 @@ formservices%5B%5D=70e6e51d4c7226c924940efda278651a&Phone=1232+1321+3123+1232&ti
 import requests
 import random
 
-url = 'https://forms.tildacdn.com/procces/'
+url = 'https://forms.tildacdn.com/procces/' #https://forms.tildacdn.com/procces/
 headers = {
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
 }
